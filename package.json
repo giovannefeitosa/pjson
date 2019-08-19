@@ -1,10 +1,10 @@
 {
-  "name": "pjson",
-  "version": "0.1",
+  "name": "packag",
+  "version": "0.0.1",
   "description": "Shortcut to package.json commands",
-  "main": "./pjson.js",
-  "repository": "https://github.com/shakegioh/pjson.git",
+  "main": "./packag.js",
+  "repository": "https://github.com/shakegioh/packag.git",
   "author": "Giovanne Afonso",
   "license": "MIT",
-  "bin": "./pjson.js"
+  "bin": "./packag.js"
 }
