@@ -6,5 +6,8 @@
   "repository": "https://github.com/shakegioh/packag.git",
   "author": "Giovanne Afonso",
   "license": "MIT",
-  "bin": "./packag.js"
+  "bin": "./packag.js",
+  "dependencies": {
+    "omelette": "^0.4.12"
+  }
 }

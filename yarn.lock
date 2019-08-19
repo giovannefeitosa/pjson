@@ -2,3 +2,7 @@
 # yarn lockfile v1
 
 
+omelette@^0.4.12:
+  version "0.4.12"
+  resolved "https://registry.yarnpkg.com/omelette/-/omelette-0.4.12.tgz#83d6413ac2f34b00266a0956b8bc472deeca1c9f"
+  integrity sha512-f/GsNOZIxHnNo9hHguQ8bNWXogfTebmvXR5Jg1apRakWO/PDSUbCOFlp9Rv4IPnS59sjZTPqkHZ2seFx8opJXA==
