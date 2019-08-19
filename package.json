@@ -2,8 +2,9 @@
   "name": "pjson",
   "version": "0.1",
   "description": "Shortcut to package.json commands",
-  "main": "pjson.js",
+  "main": "./pjson.js",
   "repository": "https://github.com/shakegioh/pjson.git",
   "author": "Giovanne Afonso",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": "./pjson.js"
 }
