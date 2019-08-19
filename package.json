@@ -1,10 +1,13 @@
 {
   "name": "packag",
-  "version": "0.0.1",
+  "version": "0.0.12",
   "description": "Shortcut to package.json commands",
   "main": "./packag.js",
   "repository": "https://github.com/shakegioh/packag.git",
   "author": "Giovanne Afonso",
   "license": "MIT",
-  "bin": "./packag.js"
+  "bin": "./packag.js",
+  "dependencies": {
+    "cli-autocomplete": "^0.4.1"
+  }
 }
